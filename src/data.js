@@ -39,7 +39,7 @@ export const sliderItems = [
       title: "LIGHT JACKETS",
     },
   ];
-  
+   
   export const popularProducts = [
     {
       id:1,
